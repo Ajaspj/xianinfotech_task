@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753722317613",
+    "project_id": "xianinfotech-task",
+    "storage_bucket": "xianinfotech-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753722317613:android:b0b6ff412784aa9d43d1a4",
+        "android_client_info": {
+          "package_name": "com.example.xianinfotech_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTzqRskACUZOJbcGGTtKqQZTbrAhKqXFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
